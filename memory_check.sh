@@ -1,0 +1,8 @@
+#!/bin/bash
+echo "============================="
+echo "Memory Usage Report"
+echo "Date: $(date)"
+echo "============================="
+free -h
+echo "============================="
+echo "Check complete."
