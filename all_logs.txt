@@ -1,0 +1,2 @@
+ls: cannot access '/fakefile': No such file or directory
+/etc/passwd
